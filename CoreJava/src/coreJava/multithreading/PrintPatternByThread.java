@@ -1,5 +1,9 @@
 package coreJava.multithreading;
-
+/**
+ * Print Pattern a b a b a b a b a b a b a b 
+ * @author Nirbhay Mishra
+ *
+ */
 public class PrintPatternByThread {
 
 	static Object monitor = new Object();
